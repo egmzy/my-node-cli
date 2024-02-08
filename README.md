@@ -2,13 +2,13 @@
 
 My Node CLI is an example project designed to demonstrate the creation of a Command Line Interface (CLI) using Node.js.
 
-Article: Building a CLI with Node.js in 2024
+<a href="https://egmz.medium.com">Building a CLI with Node.js in 2024</a>
 
-<br>
+<img src="./assets/main.png">
 
 ## Project Structure
 
-Below is the folder and file structure of the My Node CLI Toolkit:
+Below is the folder and file structure:
 
 ```
 .
@@ -28,6 +28,8 @@ Below is the folder and file structure of the My Node CLI Toolkit:
     │   └── ora-example.js
     └── utils
 ```
+
+<br>
 
 ## Installation
 
@@ -72,6 +74,8 @@ After installation, you can run the CLI by typing `my-node-cli` in your terminal
 - Ora Example
 
 Select an example to run it and see the functionality in action.
+
+<br>
 
 ## Contributing
 
